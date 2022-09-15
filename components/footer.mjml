@@ -1,0 +1,41 @@
+<mj-wrapper padding="0 " css-class="footer">
+  <mj-section padding="0">
+    <mj-group css-class="icons-size">
+      <mj-column padding="0">
+        <mj-image href="https://facebook.com" src="./assets/fb.png" alt="facebook logo" padding="0 5px" width="27px" height="27px" />
+      </mj-column>
+      <mj-column padding="0">
+        <mj-image href="https://twitter.com" src="./assets/tw.png" alt="twitter logo" padding="0 5px" width="27px" height="27px" />
+      </mj-column>
+      <mj-column padding="0">
+        <mj-image href="https://instagram.com" src="./assets/insta.png" alt="instagram logo" padding="0 5px" width="27px" height="27px" />
+      </mj-column>
+      <mj-column padding="0">
+        <mj-image href="https://snapchat.com" src="./assets/snap.png" alt="snapchat logo" padding="0 5px" width="27px" height="27px" />
+      </mj-column>
+      <mj-column padding="0">
+        <mj-image href="https://linkedin.com" src="./assets/in.png" alt="linkedin logo" padding="0 5px" width="27px" height="27px" />
+      </mj-column>
+      <mj-column padding="0">
+        <mj-image href="https://pinterest.com" src="./assets/pin.png" alt="pinterest logo" padding="0 5px" width="27px" height="27px" />
+      </mj-column>
+      <mj-column padding="0">
+        <mj-image href="https://youtube.com" src="./assets/yt.png" alt="youtube logo" padding="0 5px" width="27px" height="27px" />
+      </mj-column>
+    </mj-group>
+  </mj-section>
+  <mj-section padding="20px 0 0">
+    <mj-column padding="0">
+      <mj-text font-size="10px" align="center">
+        © Shopify, 151 O'Connor Street Ground Floor Ottawa, Ontario K2P2L8
+      </mj-text>
+    </mj-column>
+  </mj-section>
+  <mj-section padding="0 0 60px">
+    <mj-column padding="0">
+      <mj-text font-size="10px" align="center">
+        <a href="#" class="footer-links">Unsubscribe</a> | <a href="#" class="footer-links">Manage your email preferences</a>
+      </mj-text>
+    </mj-column>
+  </mj-section>
+</mj-wrapper>
