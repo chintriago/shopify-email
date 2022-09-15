@@ -55,7 +55,7 @@
     <mj-raw>
       <!-- Header -->
     </mj-raw>
-    <mj-include path="./components/header.mjml" />
+    <mj-include path="components/header.mjml" />
     <mj-raw>
       <!-- Top Section -->
     </mj-raw>
@@ -72,7 +72,7 @@
     <mj-raw>
       <!-- 3 Line Divider -->
     </mj-raw>
-    <mj-include path="./components/3-line.mjml" />
+    <mj-include path="components/3-line.mjml" />
     <mj-raw>
       <!-- Middle Section -->
     </mj-raw>
@@ -95,7 +95,7 @@
     <mj-raw>
       <!-- 3 Line Divider -->
     </mj-raw>
-    <mj-include path="./components/3-line.mjml" />
+    <mj-include path="components/3-line.mjml" />
     <mj-raw>
       <!-- Bottom Section -->
     </mj-raw>
@@ -110,7 +110,7 @@
     <mj-section background-color="#ffffff" padding="0">
       <mj-group>
         <mj-column padding="0">
-          <mj-image href="https://apple.com" src="assets/appstore.png" alt="apple app store logo" align="right" padding="0 5px" width="150px" height="43px" />
+          <mj-image href="https://apple.com" src="https://chintriago.github.io/shopify-email/assets/appstore.png" alt="apple app store logo" align="right" padding="0 5px" width="150px" height="43px" />
         </mj-column>
         <mj-column padding="0">
           <mj-image href="https://apple.com" src="https://chintriago.github.io/shopify-email/assets/android.png" alt="andorid store logo" align="left" padding="0 5px" width="150px" height="43px" />
@@ -120,6 +120,6 @@
     <mj-raw>
       <!-- Footer -->
     </mj-raw>
-    <mj-include path="./components/footer.mjml" />
+    <mj-include path="components/footer.mjml" />
   </mj-body>
 </mjml>
