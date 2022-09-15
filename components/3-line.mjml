@@ -1,5 +1,5 @@
 <mj-section background-color="#fff">
   <mj-column>
-    <mj-image padding="0" src="assets/3-lines.png" alt="3 solid yellow lines" />
+    <mj-image padding="0" src="https://chintriago.github.io/shopify-email/assets/3-lines.png" alt="3 solid yellow lines" />
   </mj-column>
 </mj-section>

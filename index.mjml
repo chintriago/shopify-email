@@ -46,7 +46,7 @@
 
       .footer {
         background-color: #ffffff;
-        background-image: url(assets/bg-colors.png);
+        background-image: url(https://chintriago.github.io/shopify-email/assets/bg-colors.png);
         background-size: 600px;
       }
     </mj-style>
@@ -78,7 +78,7 @@
     </mj-raw>
     <mj-section background-color="#fff">
       <mj-column>
-        <mj-image src="assets/image.jpg" href="https://www.shopify.com/blog" padding-bottom="20px" alt="Smart phone displaying shopify app" />
+        <mj-image src="https://chintriago.github.io/shopify-email/assets/image.jpg" href="https://www.shopify.com/blog" padding-bottom="20px" alt="Smart phone displaying shopify app" />
       </mj-column>
       <mj-column>
         <mj-text color="#004c3f" font-size="24px" font-weight="bold" padding-bottom="20px">
@@ -113,7 +113,7 @@
           <mj-image href="https://apple.com" src="assets/appstore.png" alt="apple app store logo" align="right" padding="0 5px" width="150px" height="43px" />
         </mj-column>
         <mj-column padding="0">
-          <mj-image href="https://apple.com" src="assets/android.png" alt="andorid store logo" align="left" padding="0 5px" width="150px" height="43px" />
+          <mj-image href="https://apple.com" src="https://chintriago.github.io/shopify-email/assets/android.png" alt="andorid store logo" align="left" padding="0 5px" width="150px" height="43px" />
         </mj-column>
       </mj-group>
     </mj-section>
