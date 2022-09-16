@@ -51,7 +51,7 @@
       }
     </mj-style>
   </mj-head>
-  <mj-body background-color="#004c3f">
+  <mj-body background-color="#fff">
     <mj-raw>
       <!-- Header -->
     </mj-raw>

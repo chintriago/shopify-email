@@ -1,4 +1,4 @@
-<mj-section background-color="#fff" css-class="header section-padding">
+<mj-section background-color="#004c3f" css-class="header section-padding">
   <mj-column width="100%">
     <mj-image src="https://chintriago.github.io/shopify-email/assets/logo.png" href="https://www.shopify.com/" width="121px" align="left" alt="shopify logo" />
   </mj-column>
